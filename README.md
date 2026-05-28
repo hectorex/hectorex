@@ -107,8 +107,8 @@ Soluções de programação competitiva organizadas por categoria (iniciante, ma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hectorex&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hectorex&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hectorex&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hectorex&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
