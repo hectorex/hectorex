@@ -9,113 +9,92 @@
 ╚═╝  ╚═╝╚══════╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-### Celso Hector Silva Sales
+### CELSO HECTOR 
 
 **Computer Science · Rondônia, Brasil 🇧🇷**
 
-
-*Backend developer · Competitive programmer · Finance enthusiast*
+*Backend developer*
 
 </div>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Formado em Informática pelo ensino médio técnico, hoje cursando Ciência da Computação. Comecei a competir na OBI em 2023 e fui evoluindo de nível a cada edição. Gosto de backend, de sistemas que lidam com dinheiro de verdade, e de entender como as coisas funcionam por dentro.
+Estudante de Ciência da Computação, focado em back-end e estagiário de desenvolvimento na **Brasil Digital Telecom**, onde atuo no suporte e na manutenção do ERP da empresa: corrijo bugs, ajusto funcionalidades e auxilio os colaboradores no uso do sistema.
 
-Tenho interesse especial em **sistemas financeiros** — não por acaso, meu projeto mais completo até agora é uma banking API. Medalha de Ouro na OLITEF 2025, olimpíada de educação financeira realizada pela STN e pela B3.
+Comecei a programar no técnico em Informática do **IFRO**, onde passei um ano e meio como bolsista desenvolvedor. Nesse período, construí a [RecomporAPI](https://github.com/hectorex/RecomporAPI), uma API REST em FastAPI que integrou um aplicativo mobile e um site, antes isolados, a um banco de dados único.
 
-Atualmente estudando **Java + Spring** com foco em sistemas web robustos, e praticando programação competitiva no **Beecrowd**.
+Tenho interesse especial por sistemas financeiros, o que deu origem ao meu projeto pessoal mais completo: uma banking API assíncrona.
 
----
-
-## 🏆 Conquistas em Olimpíadas
-
-### Olimpíada Brasileira de Informática (OBI)
-
-Três anos seguidos. Nível crescente. Ranking melhorando.
-
-| Edição | Modalidade | Colocação | Campo |
-|--------|-----------|-----------|-------|
-| OBI 2023 (XXV) | Programação Nível 1 | **366º** | entre 2.802 participantes |
-| OBI 2024 (XXVI) | Programação Nível 2 | **980º** | entre 5.609 participantes |
-| OBI 2025 (XXVII) | Programação Nível 2 | **684º** | entre 6.762 participantes ↑ |
-
-### OLITEF 2025 — Olimpíada do Tesouro Direto de Educação Financeira
-
-🥇 **Medalha de Ouro** — concedida pela Secretaria do Tesouro Nacional (STN) e pela B3, a bolsa do Brasil.
+🎯 **Próximo passo:** me tornar desenvolvedor full stack, com foco em **Laravel, PHP e Blade**.
 
 ---
 
 ## 🛠️ Stack
 
-### Linguagens
+**Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-### Backend & Banco de Dados
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## 📂 Projetos
-
-### [RecomporAPI](https://github.com/hectorex/RecomporAPI)
-API REST desenvolvida em Python para integrar o sistema web e mobile do projeto Recompor — uma plataforma que ensina compostagem doméstica e ajuda no gerenciamento da atividade. Desenvolvido em equipe.
-
-`Python` `FastAPI` `SQLite` `Alembic`
-
----
-
-### [fastapi-finance-api](https://github.com/hectorex/fastapi-finance-api)
-Sistema bancário backend com arquitetura 100% assíncrona. Permite criar usuários, realizar transferências com validação de saldo e senha, e consultar extrato detalhado. Senhas hasheadas com bcrypt.
-
-`Python` `FastAPI` `SQLAlchemy Async` `PostgreSQL` `Pydantic v2`
-
----
-
-### [workshop-springboot4-jpa](https://github.com/hectorex/workshop-springboot4-jpa)
-Projeto de estudo em Java com Spring Boot 4 e JPA, implementando CRUD completo com entidades relacionadas (User, Order, Product, Category, OrderItem), associações many-to-many com atributos extras e camada de serviço.
-
-`Java` `Spring Boot 4` `JPA` `H2` `REST`
-
----
-
-### [calc-java](https://github.com/hectorex/calc-java)
-Calculadora em Java desenvolvida para praticar OOP. Implementa classes de operação, histórico, exceções de domínio customizadas e loop de interação.
-
-`Java` `OOP` `Clean Code`
-
----
-
-### [beecrowd](https://github.com/hectorex/beecrowd)
-Soluções de programação competitiva organizadas por categoria (iniciante, matemática, strings, ad-hoc). Prática contínua de lógica e algoritmos.
-
-`Python` `Competitive Programming`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hectorex&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hectorex&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,java,spring" />
 </p>
 
-<p align="center">
+**Banco de dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/hectorex/fastapi-finance-api">💰 fastapi-finance-api</a></h3>
+      <p>Sistema bancário backend 100% assíncrono. Criação de usuários, transferências com validação de saldo e senha, extrato detalhado e senhas com bcrypt.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLAlchemy_Async-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/hectorex/workshop-springboot4-jpa">☕ workshop-springboot4-jpa</a></h3>
+      <p>API REST com Spring Boot 4 e JPA: CRUD completo de User, Order, Product e Category, many-to-many com atributos extras (OrderItem) e camada de serviço.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/hectorex/oficina-laravel">🐘 oficina-laravel</a></h3>
+      <p>Estudos e projetos práticos em PHP com Laravel, começando por um catálogo de séries com relacionamentos via Eloquent.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blade.php-F05340?style=flat-square&logo=laravel&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=hectorex&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
@@ -133,8 +112,8 @@ Soluções de programação competitiva organizadas por categoria (iniciante, ma
 
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmamRkNWxhcGRpcHBvcjVvejNxYXd0ajlyMXByOTFhMHM3YWRuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" width="420px"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmamRkNWxhcGRpcHBvcjVvejNxYXd0ajlyMXByOTFhMHM3YWRuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif" width="100%" />
 
-*"What we do in life echoes in eternity."*
+### *"What we do in life echoes in eternity."*
+
 </div>
-
